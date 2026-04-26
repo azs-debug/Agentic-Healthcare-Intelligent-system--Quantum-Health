@@ -126,7 +126,7 @@ pydeck
 requests
 
 
-###🌍 Routing System
+### 🌍 Routing System
 
 Uses OSRM (Open Source Routing Machine):
 
@@ -138,7 +138,7 @@ Shortest path routing
 Real-time hospital navigation visualization
 Safe fallback handling for missing routes
 
-###📊 Data Features
+### 📊 Data Features
 Hospital name
 Latitude & longitude
 Specialties
@@ -148,7 +148,7 @@ Equipment availability
 Verified medical capabilities
 PIN code / region mapping
 
-###🧠 Future Improvements
+### 🧠 Future Improvements
 Full LLM-powered medical agent (GPT / Gemini integration)
 Real-time hospital availability tracking
 Ambulance ETA prediction system
@@ -156,19 +156,19 @@ Semantic search over medical conditions
 Live traffic-aware routing
 Hospital capacity forecasting
 
-###⚠️ Current Limitations
+### ⚠️ Current Limitations
 Agent layer is rule-based (not fully LLM integrated yet)
 Dataset is static (no live hospital API integration)
 Routing depends on external OSRM service
 Some inference logic is simulated
 
-###🎯 Project Goal
+### 🎯 Project Goal
 
 To build a transparent, explainable, and intelligent healthcare decision system that bridges the gap between:
 
 Medical Need → Hospital Capability → Geographic Accessibility
 
-###👨‍💻 Team
+### 👨‍💻 Team
 
 Developed as a 3-member project focusing on:
 
